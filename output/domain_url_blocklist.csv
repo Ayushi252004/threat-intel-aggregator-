@@ -1,0 +1,7 @@
+indicator,type,source_count,severity
+badactor-phish.net,domain,2,Medium
+http://free-gift-cards-now.biz/claim,url,1,Low
+malicious-update-portal.com,domain,2,Medium
+http://185.220.101.4/payload.exe,url,1,Low
+quiet-invoice-update.org,domain,1,Low
+http://quiet-invoice-update.org/login.php,url,1,Low

@@ -1,0 +1,5 @@
+indicator,type,source_count,severity
+185.220.101.4,ip,3,High
+45.155.205.233,ip,3,High
+92.63.197.55,ip,1,Low
+203.0.113.77,ip,1,Low

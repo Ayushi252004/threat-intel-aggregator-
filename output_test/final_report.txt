@@ -1,0 +1,21 @@
+==================================================
+THREAT INTELLIGENCE AGGREGATOR - FINAL REPORT
+==================================================
+
+Feeds Processed: 3
+  - community.txt
+  - feed1_osint.csv
+  - feed3_cert.json
+
+Total Unique Indicators: 14
+
+Breakdown by Category:
+  - ip: 4
+  - domain_url: 6
+  - hash: 3
+
+High Priority Indicators (2):
+  - 185.220.101.4 (ip) seen in 3 sources: feed1_osint.csv, feed3_cert.json, community.txt
+  - 45.155.205.233 (ip) seen in 3 sources: feed1_osint.csv, feed3_cert.json, community.txt
+
+==================================================

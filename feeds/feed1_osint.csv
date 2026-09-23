@@ -1,0 +1,9 @@
+indicator,type,notes
+185.220.101.4,ip,Known Tor exit node used in scanning
+45.155.205.233,ip,C2 server reported by community
+malicious-update-portal.com,domain,Fake software update site
+185.220.101.4,ip,Duplicate entry - repeated scanning activity
+http://185.220.101.4/payload.exe,url,Payload download link
+badactor-phish.net,domain,Phishing domain
+d41d8cd98f00b204e9800998ecf8427e,hash,Empty file hash - test entry
+attacker@malicious-update-portal.com,email,Phishing sender address

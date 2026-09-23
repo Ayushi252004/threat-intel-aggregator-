@@ -1,0 +1,58 @@
+[
+  {
+    "indicator": "badactor-phish.net",
+    "type": "domain",
+    "sources": [
+      "feed1_osint.csv",
+      "community.txt"
+    ],
+    "source_count": 2,
+    "severity": "Medium"
+  },
+  {
+    "indicator": "http://free-gift-cards-now.biz/claim",
+    "type": "url",
+    "sources": [
+      "community.txt"
+    ],
+    "source_count": 1,
+    "severity": "Low"
+  },
+  {
+    "indicator": "malicious-update-portal.com",
+    "type": "domain",
+    "sources": [
+      "feed1_osint.csv",
+      "community.txt"
+    ],
+    "source_count": 2,
+    "severity": "Medium"
+  },
+  {
+    "indicator": "http://185.220.101.4/payload.exe",
+    "type": "url",
+    "sources": [
+      "feed1_osint.csv"
+    ],
+    "source_count": 1,
+    "severity": "Low"
+  },
+  {
+    "indicator": "quiet-invoice-update.org",
+    "type": "domain",
+    "sources": [
+      "feed3_cert.json"
+    ],
+    "source_count": 1,
+    "severity": "Low"
+  },
+  {
+    "indicator": "http://quiet-invoice-update.org/login.php",
+    "type": "url",
+    "sources": [
+      "feed3_cert.json"
+    ],
+    "source_count": 1,
+    "severity": "Low"
+  }
+]

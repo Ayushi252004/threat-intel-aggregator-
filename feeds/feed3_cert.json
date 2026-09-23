@@ -1,0 +1,11 @@
+{
+  "feed_name": "CERT Advisory Feed",
+  "date": "2026-08-30",
+  "indicators": [
+    {"value": "185.220.101.4", "type": "ip", "severity": "high", "campaign": "ScanNet-2026"},
+    {"value": "45.155.205.233", "type": "ip", "severity": "high", "campaign": "C2-Infra-9"},
+    {"value": "quiet-invoice-update.org", "type": "domain", "severity": "medium", "campaign": "Invoice-Phish"},
+    {"value": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855", "type": "hash", "severity": "critical", "campaign": "Loader-X"},
+    {"value": "http://quiet-invoice-update.org/login.php", "type": "url", "severity": "medium", "campaign": "Invoice-Phish"}
+  ]
+}
